@@ -4,3 +4,10 @@ ARE
 LINES 
 OF 
 BEER
+... and even more:
+this
+are
+some
+new
+lines
+:)
